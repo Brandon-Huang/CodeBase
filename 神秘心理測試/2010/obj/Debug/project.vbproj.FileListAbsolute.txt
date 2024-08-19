@@ -1,0 +1,13 @@
+D:\Desktop\big5\清華VB\Visual Basic開發實戰1200例(第I卷)12.3 繁體\code_b\MR\01\018\神秘心理測試\2010\bin\project1.exe
+D:\Desktop\big5\清華VB\Visual Basic開發實戰1200例(第I卷)12.3 繁體\code_b\MR\01\018\神秘心理測試\2010\bin\project1.pdb
+D:\Desktop\big5\清華VB\Visual Basic開發實戰1200例(第I卷)12.3 繁體\code_b\MR\01\018\神秘心理測試\2010\bin\project1.xml
+D:\Desktop\big5\清華VB\Visual Basic開發實戰1200例(第I卷)12.3 繁體\code_b\MR\01\018\神秘心理測試\2010\obj\Debug\ResolveAssemblyReference.cache
+D:\Desktop\big5\清華VB\Visual Basic開發實戰1200例(第I卷)12.3 繁體\code_b\MR\01\018\神秘心理測試\2010\obj\Debug\project1.Frm_Main.resources
+D:\Desktop\big5\清華VB\Visual Basic開發實戰1200例(第I卷)12.3 繁體\code_b\MR\01\018\神秘心理測試\2010\obj\Debug\project1.Frm_Temp.resources
+D:\Desktop\big5\清華VB\Visual Basic開發實戰1200例(第I卷)12.3 繁體\code_b\MR\01\018\神秘心理測試\2010\obj\Debug\project.vbproj.GenerateResource.Cache
+D:\Desktop\big5\清華VB\Visual Basic開發實戰1200例(第I卷)12.3 繁體\code_b\MR\01\018\神秘心理測試\2010\obj\Debug\project1.exe
+D:\Desktop\big5\清華VB\Visual Basic開發實戰1200例(第I卷)12.3 繁體\code_b\MR\01\018\神秘心理測試\2010\obj\Debug\project1.xml
+D:\Desktop\big5\清華VB\Visual Basic開發實戰1200例(第I卷)12.3 繁體\code_b\MR\01\018\神秘心理測試\2010\obj\Debug\project1.pdb
+D:\Desktop\big5\清華VB\Visual Basic開發實戰1200例(第I卷)12.3 繁體\code_b\MR\01\016\神秘心理測試\2010\obj\Debug\project1.exe
+D:\Desktop\big5\清華VB\Visual Basic開發實戰1200例(第I卷)12.3 繁體\code_b\MR\01\016\神秘心理測試\2010\obj\Debug\project1.xml
+D:\Desktop\big5\清華VB\Visual Basic開發實戰1200例(第I卷)12.3 繁體\code_b\MR\01\016\神秘心理測試\2010\obj\Debug\project1.pdb

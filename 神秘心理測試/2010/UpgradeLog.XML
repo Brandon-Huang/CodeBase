@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="project">
+</Property><Property Name="方案檔" Value="D:\Desktop\big5\清華VB\Visual Basic開發實戰1200例(第I卷)12.3 繁體\code_b\MR\01\018\神秘心理測試\2010\project.sln">
+</Property><Property Name="使用者選項檔" Value="D:\Desktop\big5\清華VB\Visual Basic開發實戰1200例(第I卷)12.3 繁體\code_b\MR\01\018\神秘心理測試\2010\project.suo">
+</Property><Property Name="Date" Value="2011年12月12日">
+</Property><Property Name="Time" Value="下午 18:19">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="project.sln" Description="檔案已成功備份為 D:\Desktop\big5\清華VB\Visual Basic開發實戰1200例(第I卷)12.3 繁體\code_b\MR\01\018\神秘心理測試\2010\Backup\project.sln">
+</Event><Event ErrorLevel="0" Project="" Source="project.suo" Description="檔案已成功備份為 D:\Desktop\big5\清華VB\Visual Basic開發實戰1200例(第I卷)12.3 繁體\code_b\MR\01\018\神秘心理測試\2010\Backup\project.suo">
+</Event><Event ErrorLevel="0" Project="project" Source="project.vbproj" Description="專案檔已成功備份為 D:\Desktop\big5\清華VB\Visual Basic開發實戰1200例(第I卷)12.3 繁體\code_b\MR\01\018\神秘心理測試\2010\Backup\project.vbproj">
+</Event><Event ErrorLevel="0" Project="project" Source="project.vbproj.user" Description="專案使用者檔案已成功備份為 D:\Desktop\big5\清華VB\Visual Basic開發實戰1200例(第I卷)12.3 繁體\code_b\MR\01\018\神秘心理測試\2010\Backup\project.vbproj.user">
+</Event><Event ErrorLevel="0" Project="project" Source="AssemblyInfo.vb" Description="檔案已成功備份為 D:\Desktop\big5\清華VB\Visual Basic開發實戰1200例(第I卷)12.3 繁體\code_b\MR\01\018\神秘心理測試\2010\Backup\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="project" Source="Frm_Main.Designer.vb" Description="檔案已成功備份為 D:\Desktop\big5\清華VB\Visual Basic開發實戰1200例(第I卷)12.3 繁體\code_b\MR\01\018\神秘心理測試\2010\Backup\Frm_Main.Designer.vb">
+</Event><Event ErrorLevel="0" Project="project" Source="Frm_Main.vb" Description="檔案已成功備份為 D:\Desktop\big5\清華VB\Visual Basic開發實戰1200例(第I卷)12.3 繁體\code_b\MR\01\018\神秘心理測試\2010\Backup\Frm_Main.vb">
+</Event><Event ErrorLevel="0" Project="project" Source="Frm_Temp.Designer.vb" Description="檔案已成功備份為 D:\Desktop\big5\清華VB\Visual Basic開發實戰1200例(第I卷)12.3 繁體\code_b\MR\01\018\神秘心理測試\2010\Backup\Frm_Temp.Designer.vb">
+</Event><Event ErrorLevel="0" Project="project" Source="Frm_Temp.vb" Description="檔案已成功備份為 D:\Desktop\big5\清華VB\Visual Basic開發實戰1200例(第I卷)12.3 繁體\code_b\MR\01\018\神秘心理測試\2010\Backup\Frm_Temp.vb">
+</Event><Event ErrorLevel="0" Project="project" Source="_UpgradeReport.htm" Description="檔案已成功備份為 D:\Desktop\big5\清華VB\Visual Basic開發實戰1200例(第I卷)12.3 繁體\code_b\MR\01\018\神秘心理測試\2010\Backup\_UpgradeReport.htm">
+</Event><Event ErrorLevel="0" Project="project" Source="project.ico" Description="檔案已成功備份為 D:\Desktop\big5\清華VB\Visual Basic開發實戰1200例(第I卷)12.3 繁體\code_b\MR\01\018\神秘心理測試\2010\Backup\project.ico">
+</Event><Event ErrorLevel="0" Project="project" Source="Frm_Main.resX" Description="檔案已成功備份為 D:\Desktop\big5\清華VB\Visual Basic開發實戰1200例(第I卷)12.3 繁體\code_b\MR\01\018\神秘心理測試\2010\Backup\Frm_Main.resX">
+</Event><Event ErrorLevel="0" Project="project" Source="Frm_Temp.resX" Description="檔案已成功備份為 D:\Desktop\big5\清華VB\Visual Basic開發實戰1200例(第I卷)12.3 繁體\code_b\MR\01\018\神秘心理測試\2010\Backup\Frm_Temp.resX">
+</Event><Event ErrorLevel="1" Project="project" Source="project.vbproj" Description="您的專案目標為 .NET Framework 2.0 或 3.0。如果您的專案使用的組件需要較新的 .NET Framework，您的專案將無法建置。您可以按一下 [專案] 功能表的 [屬性]，然後選擇在 [.NET Framework] 下拉式方塊中選擇新的版本，以變更 .NET Framework 版本 (在 Visual Basic 中，它是位於按一下 [進階編譯器選項...] 按鈕時出現的 [編譯] 索引標籤上)。">
+</Event><Event ErrorLevel="0" Project="project" Source="project.vbproj" Description="專案轉換成功">
+</Event><Event ErrorLevel="3" Project="project" Source="project.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="project.sln" Description="方案轉換成功">
+</Event><Event ErrorLevel="3" Project="" Source="project.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="project" Source="project.vbproj" Description="掃描完成: 專案檔不需要升級。">
+</Event></UpgradeLog>
